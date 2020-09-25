@@ -1,0 +1,8 @@
+{
+  "extends": "@tsconfig/node12",
+  "compilerOptions": {
+    "outDir": "lib",
+    "noImplicitAny": false
+  },
+  "include": ["src"]
+}
